@@ -28,8 +28,8 @@ set2.addItem(3);
 set2.addItem(4);
 set2.addItem(5);
 set2.addItem(6);
-set2.addItem(7);
-set2.addItem(8);
+set2.addItem(99);
+set2.addItem(9);
 
 System.out.println("Set 1 : "+set1.getlist());
 System.out.println("Set 2 : "+set2.getlist());
