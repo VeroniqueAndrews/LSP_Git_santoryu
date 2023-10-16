@@ -15,6 +15,9 @@ IntegerSet set1= new IntegerSet(list1);
 IntegerSet set2= new IntegerSet(list2);
 
 set1.addItem(10);
+
+
+
 set1.addItem(3);
 set1.addItem(4);
 set1.addItem(6);
